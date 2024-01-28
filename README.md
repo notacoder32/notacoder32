@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @notacoder32
-- 👀 I’m interested in learning new skills and being able to build things out of my mind(but i didnt actually tried yet).
+- 👀 I’m interested in learning new skills and being able to build things through observations and practise (but i didnt actually tried or built anything yet).
 - 🌱 I’m currently learning to code in c++ and I will be learning python aswell. 
 - 💞️ I’m looking to collaborate on anything innovative that could help us learn something.
 - 📫 How to reach me, mail me at(sayadyaqoob78@gmail.com)
