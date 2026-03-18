@@ -7,6 +7,7 @@ I am continuously improving my skills in:
 - Python
 - C++
 - TensorFlow
+- Pytorch
 - Deep Learning
 - Machine Learning fundamentals
 
