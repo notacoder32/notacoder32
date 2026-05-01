@@ -9,7 +9,9 @@ I am continuously improving my skills in:
 - TensorFlow
 - Pytorch
 - Deep Learning
-- Machine Learning fundamentals
+- Machine Learning
+- NLP
+- Computer Vision
 
 I am particularly interested in contributing to both research-oriented and development-focused projects within collaborative learning environments
 
